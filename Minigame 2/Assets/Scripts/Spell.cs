@@ -27,7 +27,7 @@ public class Spell : MonoBehaviour
         {
             gameObject.SetActive(false);
             _collider.enabled = false;
-        }
         // STEP 2 -------------------------------------------------------------
+        }
     }
 }
